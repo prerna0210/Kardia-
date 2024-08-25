@@ -1,0 +1,7 @@
+The world Heart Federation estimates that over half a billion people around the world are currently living with some or the other form of cardiovascular disease, and this figure is considered to rise further. 
+Many researches have been conducted in attempt to pinpoint the most influential factors of heart disease as well as accurately predict the overall risk. 
+The early diagnosis of heart disease plays a vital role in making decisions on lifestyle changes in high-risk patients and in turn reduce the complications. 
+In recent years, the proliferation of data science and machine learning techniques has provided novel avenues for predictive modeling in healthcare. 
+Leveraging large-scale datasets encompassing diverse patient demographics, clinical characteristics, and lifestyle factors, machine learning algorithms offer the potential to develop accurate predictive models for identifying individuals at risk of developing CVDs. 
+These models not only aid in risk stratification but also facilitate personalized healthcare interventions, ultimately leading to improved patient outcomes and resource allocation efficiency.
+Through the project it is aimed to predict the probability of the patient of having a cardiovascular disorder based on the principles of logistic regression and Recursive Feature Elimination using Cross-Validation (RFECV) and intend to develop a prediction model for early detection of diseases, specifically cardiovascular disorders.
